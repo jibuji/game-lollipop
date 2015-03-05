@@ -1,0 +1,11 @@
+.*
+app/src/main/bin/
+*.iml
+app/src/main/gen/
+app/src/main/project.properties
+build/
+obj/
+local.properties
+gradle/
+gradlew
+gradlew.bat
